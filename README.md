@@ -6,3 +6,8 @@ Included webpack building, css-modules integration, less pre-proccessing, and je
 
      $ npm install
      $ npm start & open http://localhost:8080
+     
+     
+### Tests example
+     
+     $ npm test
