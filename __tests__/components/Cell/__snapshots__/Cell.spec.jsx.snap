@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Cell /> must render white if color prop is false 1`] = `
+<Cell
+  color={false}
+>
+  <div
+    className="cell cellWhite"
+  />
+</Cell>
+`;
